@@ -43,10 +43,18 @@ _http://[site]:[port]/api/endpoints_
 ### Example 1: Adding a new book /api/store
 
 Json Body
-https://github.com/PremKarira/BooksAPI-JWT/blob/main/postStoreBody.png?raw=true
+<p align="center">
+  <img src="https://github.com/PremKarira/BooksAPI-JWT/blob/main/postStoreBody.png?raw=true">
+</p>
+
 
 Auth Token in Header
-https://github.com/PremKarira/BooksAPI-JWT/blob/main/postStoreHeader.png?raw=true
+<p align="center">
+  <img src="https://github.com/PremKarira/BooksAPI-JWT/blob/main/postStoreHeader.png?raw=true">
+</p>
+
 
 Output
-https://github.com/PremKarira/BooksAPI-JWT/blob/main/postStoreOutput.png?raw=true
+<p align="center">
+  <img src="https://github.com/PremKarira/BooksAPI-JWT/blob/main/postStoreOutput.png?raw=true">
+</p>
